@@ -1,0 +1,3 @@
+neo4j/**/*.*
+neo4j/data/server_id
+neo4j/data/databases/**/*
